@@ -10,8 +10,8 @@ For generating HTML with Typst, the [hyperscript](https://github.com/tshort/hype
 
 ## Examples
 
-* [Example 1](https://tshort.github.io/typ-pad/example1/)--Basic Typst content generation with JavaScript calculations.
-* [Example 2](https://tshort.github.io/typ-pad/example2/)--Typst is used to generate content on the fly.
+* [Example 1](https://tshort.github.io/typ-pad/examples/1/)--Basic Typst content generation with JavaScript calculations.
+* [Example 2](https://tshort.github.io/typ-pad/examples/2/)--Typst is used to generate content on the fly.
 
 ## Template
 
