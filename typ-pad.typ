@@ -101,10 +101,10 @@
     heads.push(html.elem("title", title))
   }
   for a in js-includes {
-    if type(x) == dictionary {
+    if type(a) == dictionary {
       result.push(html.elem("script", a))
     } else {
-      result.push(html.elem("script", (src: a)))
+      result.push(html.elem("script", attrs: (src: a)))
     }
   }
   if js != "" {
