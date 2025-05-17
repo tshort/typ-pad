@@ -1,0 +1,10 @@
+[package]
+name = "typ-pad"
+version = "0.1.0"
+entrypoint = "typ-pad.typ"
+authors = ["Tom Short <@tshort>"]
+repository = "https://github.com/tshort/typ-pad"
+license = "MIT"
+keywords = ["html", "javascript", "app"]
+categories = ["components"]
+description = "Create online apps with Typst"
